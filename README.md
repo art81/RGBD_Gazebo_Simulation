@@ -1,7 +1,7 @@
 # RGBD_Gazebo_Simulation
 Simple gazebo simulation with a python script that subscribes to a gazebo simulated RGBD camera.
 
-Processing being done was for EECS 531 (Computer Vision) at Case Western Reserve University with Chude (Frank) Qian Spring 2020.
+Processing being done was for EECS 531 (Computer Vision) at Case Western Reserve University with [@frank_qcd_qk](https://github.com/frank-qcd-qk)  Spring 2020.
 
 ### Running the Code
 
